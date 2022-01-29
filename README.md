@@ -28,4 +28,4 @@ _It's Sega’s OutRun as a battle royale & endless runner, 100 players race to g
 ## Dev Team
 
 - Lead Designer / Lead Programmer / Project Lead
-  - [Simon Norman](twitter.com/zhymonnorman)
+  - [Simon Norman](https://twitter.com/zhymonnorman)
