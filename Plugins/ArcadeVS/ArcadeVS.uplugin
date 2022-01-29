@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.1",
+	"FriendlyName": "ArcadeVS",
+	"Description": "Easy to setup, customizable and fun to use vehicle system!",
+	"Category": "Gameplay",
+	"CreatedBy": "PoyoWorks",
+	"CreatedByURL": "https://github.com/PoyoWorks/ArcadeVS_DemoProject",
+	"DocsURL": "https://poyoworks.github.io/ArcadeVS_DemoProject/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c2405ef79a3f460d8a31efbea9ace9f2",
+	"SupportURL": "https://github.com/PoyoWorks/ArcadeVS_DemoProject",
+	"EngineVersion": "5.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ArcadeVS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
