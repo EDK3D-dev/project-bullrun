@@ -17,9 +17,9 @@ _It's Sega’s OutRun as a battle royale & endless runner, 100 players race to g
 - [Unreal Engine 5](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available-in-early-access)
 - [Quixel Mixer](https://quixel.com/mixer)
 - [Blender](https://www.blender.org/)
-- [Arcade Vehicle System](https://www.unrealengine.com/marketplace/en-US/product/arcade-vehicle-system)
+- [Arcade Vehicle System (Unreal Engine Plugin)](https://www.unrealengine.com/marketplace/en-US/product/arcade-vehicle-system)
 
-## Follow Swarm on Social Media
+## Follow Swarm Creative on Social Media
 
 - [Facebook](https://www.facebook.com/swarmcreative)
 - [Instagram](https://www.instagram.com/swarmcreative/)
@@ -27,5 +27,5 @@ _It's Sega’s OutRun as a battle royale & endless runner, 100 players race to g
 
 ## Dev Team
 
-- Lead Designer / Lead Programmer / Project Lead
+- Game Designer / Lead Programmer / Project Lead
   - [Simon Norman](https://twitter.com/zhymonnorman)
