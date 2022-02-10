@@ -26,5 +26,5 @@ _It's Sega’s OutRun as a battle royale & endless runner, 100 players race to g
 
 - Game Designer / Engine Programmer / Project Lead / Art Direction
   - [Simon Norman](https://twitter.com/zhymonnorman)
-- Gameplay Programmer 
+- Gameplay Programmer / Tech Artist
   - [Amber McCausley](https://www.linkedin.com/in/amber-mccausley-07a1b473/)
