@@ -17,6 +17,14 @@ _It's Sega’s OutRun as a battle royale & endless runner, 100 players race to g
 - [Blender](https://www.blender.org/)
 - [Arcade Vehicle System (Unreal Engine Plugin)](https://www.unrealengine.com/marketplace/en-US/product/arcade-vehicle-system)
 
+## Target Platforms
+
+- Mobile (iOS & Android)
+- ***Post Launch*** 
+   - PC/Mac (Epic Games)
+   - Linux (itch.io)
+
+
 ## Follow Swarm Creative on Social Media
 
 - [Facebook](https://www.facebook.com/swarmcreative)
