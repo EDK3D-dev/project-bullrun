@@ -10,10 +10,7 @@ _It's Sega’s OutRun as a battle royale & endless runner, 100 players race to g
 
 ## Development Stack
 
-- Multiplayer (_still deciding_)
-  - [Epic Online Services](https://dev.epicgames.com/en-US/services)
-  - [Colyseus](https://www.colyseus.io/)
-  - [Spatial OS](https://ims.improbable.io/products/spatialos)
+- [Epic Online Services](https://dev.epicgames.com/en-US/services)
 - [Unreal Engine 5](https://www.unrealengine.com/en-US/blog/unreal-engine-5-is-now-available-in-early-access)
 - [Quixel Mixer](https://quixel.com/mixer)
 - [Blender](https://www.blender.org/)
@@ -27,5 +24,7 @@ _It's Sega’s OutRun as a battle royale & endless runner, 100 players race to g
 
 ## Dev Team
 
-- Game Designer / Lead Programmer / Project Lead
+- Game Designer / Engine Programmer / Project Lead / Art Direction
   - [Simon Norman](https://twitter.com/zhymonnorman)
+- Gameplay Programmer 
+  - [Amber McCausley](https://www.linkedin.com/in/amber-mccausley-07a1b473/)
